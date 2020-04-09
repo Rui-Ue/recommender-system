@@ -79,5 +79,5 @@ similarity(196, 930)
 
 #%% predict rateing
 
-
+# 次回
 
