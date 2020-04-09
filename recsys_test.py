@@ -3,7 +3,9 @@
 
 # MovieLens の嗜好データを
 # https://grouplens.org/datasets/movielens/100k/ 
-# からダウンロードした．
+# からダウンロードした．README に詳しい説明あり．ファイルとかカラムとか．
+# https://yag.xyz/blog/2015/10/03/movielens-datasets/
+# にもデータの簡単な紹介がある．いろいろなサイズのやつあって，とりあえず一番小さい(古い)やつにした．
 
 # これを使って協調フィルタリングを(なるべくスクラッチで)実装してみる．
 
