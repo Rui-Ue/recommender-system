@@ -1,1 +1,4 @@
 .DS_Store
+
+# checkpoints of jupyter notebook
+.ipynb_checkpoints
