@@ -36,6 +36,7 @@ movie = pd.read_csv('/Users/rui/data/ml-100k/u.item_utf8.txt', sep='|', header=N
 movie_mst = movie[[0,1]]
 movie_mst.columns = ["movie_id", "movie_name"]
 # エンコーディングで苦労した．参考：https://stackoverflow.com/questions/30752973/encoding-issues-while-reading-importing-csv-file-in-python3-pandas
+# コピーしてVSCodeで開いたらutf-8にできて，読み込めた．
 # カラム内容についてはREADMEを参照．
 
 
