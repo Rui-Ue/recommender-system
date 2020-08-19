@@ -14,7 +14,7 @@
 
 
 
-#### [RecSys][https://recsys.acm.org/]
+#### [RecSys](https://recsys.acm.org/)
 
 レコメンドシステムのトップカンファレンス。proceedings は [ACM Digital Library](https://dl.acm.org/conference/recsys/proceedings) からアクセスできる。
 
