@@ -26,6 +26,7 @@
 ### [RecSys2019論文読み会](https://connpass.com/event/148001/)
 
 [RecSys2019](https://recsys.acm.org/recsys19/) の論文について、著者あるいは聴講者の方々による解説資料がアップされている。
+- [相互推薦システムの紹介](https://yu-ya4.hatenablog.com/entry/2019/12/12/184120)：@yu-ya4 さんが当日の発表内容をさらに深掘りしてまとめたもの
 
 
 <br>
@@ -39,7 +40,8 @@
 
 ### [Recent Trends in Personalization: A Netflix Perspective](https://www.slideshare.net/justinbasilico/recent-trends-in-personalization-a-netflix-perspective)
 
-ICML での講演資料。[発表動画](https://slideslive.com/38917692/recent-trends-in-personalization-a-netflix-perspective)もある。下記 note 記事でも引用されている。
+ICML での Netflix の講演資料。下記 note 記事でも引用されている。
+- [発表動画](https://slideslive.com/38917692/recent-trends-in-personalization-a-netflix-perspective)もある。
 
 
 <br>
@@ -48,6 +50,14 @@ ICML での講演資料。[発表動画](https://slideslive.com/38917692/recent-
 
 産総研の神嶌先生による包括的な解説。[講義スライド](http://www.kamishima.net/archive/recsys.pdf)もある。
 
+
+<br>
+
+### RecSys2018 関連
+
+- [参加者によるまとめ記事](http://myui.hateblo.jp/entry/2018/10/19/RecSys'18@Vancouver_trip_report)
+- [神嶌先生による論文紹介](https://www.slideshare.net/shima__shima/recsys2018)
+- [AbemaTV レコメンド開発エンジニアによる RecSys2018 参加レポート](https://www.slideshare.net/cyberagent/abematv-recsys-2018)
 
 
 
@@ -67,6 +77,11 @@ ICML での講演資料。[発表動画](https://slideslive.com/38917692/recent-
 Ubie 風間さんによる note 記事
 
 
+<br>
+
+### [2018年、推薦検索周りの記事や論文のまとめ](https://qiita.com/reikubonaga/items/08b079e903a56bf35e83)
+
+Wantedly の方によるまとめ。リンクがたくさん載っている。
 
 
 
@@ -105,6 +120,12 @@ GroupLens が公開している定番データセット。[解説記事](https:/
 
 [解説記事](https://kensuu.com/n/n58dfb5fc02e7)。風間さんが分析・開発。[ツイート](https://twitter.com/masa_kazama/status/1285416013891121154)
 
+
+<br>
+
+### [「タップル誕生」の両思い請負人は機械学習エンジニア](https://www.cyberagent.co.jp/way/features/list/detail/id=24695)
+
+サイバーエージェント秋葉原ラボでの、相互推薦システムの事例。
 
 
 
