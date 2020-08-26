@@ -84,6 +84,20 @@ Ubie 風間さんによる note 記事
 Wantedly の方によるまとめ。リンクがたくさん載っている。
 
 
+<br>
+
+### [RecSys 2019 ベストペーパーを読んだメモ](https://qiita.com/smochi/items/98dbd9429c15898c5dc7)
+
+Ubie の方による論文解説。元論文は「[Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)」
+
+
+<br>
+
+### [広告レコメンドにおける多腕バンディット問題の適用とその解法](https://tech.speee.jp/entry/2018/08/08/090000)
+
+上記の Netflix で Recent Trends の１つとして取り上げられていたバンディット。
+
+
 
 
 
@@ -128,7 +142,12 @@ GroupLens が公開している定番データセット。[解説記事](https:/
 サイバーエージェント秋葉原ラボでの、相互推薦システムの事例。
 
 
+<br>
 
+### [AbemaTV における推薦システム](https://www.slideshare.net/abemadev/abematv-abematv-devcon-2018-trackb-session-b7)
+秋葉原ラボの福田さんによる講演スライド。
+- [スライド+発表内容の文字起こし](https://logmi.jp/tech/articles/320256)
+- 上記の技術報告書に詳細記事がある
 
 
 
